@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Власов](https://up.htmlacademy.ru/htmlcss/35/user/1439397).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Глебов] (https://htmlacademy.ru/profile/beast).
 
 ---
 
